@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Audrey Bertin's CV
 ---
-# Isaac Newton
+# Audrey Bertin
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
